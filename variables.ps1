@@ -1,6 +1,4 @@
- 
-
-# variable assignment
+ # variable assignment
 $a = 'Apple'
 
 # print value
