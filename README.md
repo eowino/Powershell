@@ -1,4 +1,4 @@
-# Intro into Powershell
+# Intro into Powershell - Topics covered
 
 ## Introduction
 Basic usage of common commands
@@ -24,6 +24,9 @@ Types (Based on .NET): short, float, decimal, single, bool, byte, etc.
 
 ### Strings
 Usage and methods
+
+### Arrays
+Usage and syntax
 
 ## Programming
  
