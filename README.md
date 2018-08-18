@@ -18,7 +18,7 @@ Types (Based on .NET): short, float, decimal, single, bool, byte, etc.
     -$host              Information about a machine
     -$PID               Process ID
     -$PSVersionTable    Information about the current version of Powershell
-    -$_                 Current object (see e.g. usage in [Intro.ps1](https://github.com/eowino/Powershell/blob/master/Intro.ps1))
+    -$_                 Current object (see e.g. usage in Intro.ps1)
 
 ### Comparisons
     -eq   Equals
