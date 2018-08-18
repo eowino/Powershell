@@ -21,16 +21,16 @@ Types (Based on .NET): short, float, decimal, single, bool, byte, etc.
     -$_                 Current object (see e.g. usage in Intro.ps1)
 
 ### Comparisons
-    -eq   Equals
-    -ne   Not equal to
-    -ge   Greater than or equal to
-    -gt   Greater than
-    -lt   Less than
+    -eq                 Equals
+    -ne                 Not equal to
+    -ge                 Greater than or equal to
+    -gt                 Greater than
+    -lt                 Less than
 
-    -Like        Similar to wildcard pattern matching
-    -NotLike     Not Like
-    -Match       RegEx match
-    -NoMatch     Non-matches based on RegEx
+    -Like               Similar to wildcard pattern matching
+    -NotLike            Not Like
+    -Match              RegEx match
+    -NoMatch            Non-matches based on RegEx
 
 
 ### Strings
