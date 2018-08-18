@@ -9,6 +9,17 @@ Some examples of providers
 ## Variables and Cmdlets
 Types (Based on .NET): short, float, decimal, single, bool, byte, etc.
 
+### Built in variables
+    -$false             FALSE
+    -$true              TRUE
+    -$NULL              
+    -$pwd               Current working directory
+    -$Home              Home directory
+    -$host              Information about a machine
+    -$PID               Process ID
+    -$PSVersionTable    Information about the current version of Powershell
+    -$_                 Current object (see e.g. usage in [Intro.ps1](https://github.com/eowino/Powershell/blob/master/Intro.ps1))
+
 ### Comparisons
     -eq   Equals
     -ne   Not equal to
