@@ -28,5 +28,8 @@ Usage and methods
 ### Arrays
 Usage and syntax
 
+### Hash Tables
+Usage and syntax
+
 ## Programming
  
