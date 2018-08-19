@@ -7,7 +7,15 @@ Basic usage of common commands
 Some examples of providers
 
 ## Variables and Cmdlets
-Types (Based on .NET): short, float, decimal, single, bool, byte, etc.
+Types (Based on .NET)
+
+    short 
+    float
+    decimal
+    single
+    bool
+    byte
+    etc.
 
 ### Built in variables
     -$false             FALSE
@@ -43,7 +51,6 @@ Usage and syntax
 Usage and syntax
 
 ## Programming
-
     -Branching
     -Looping
     -Script blocks
