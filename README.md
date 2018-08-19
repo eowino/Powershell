@@ -43,4 +43,9 @@ Usage and syntax
 Usage and syntax
 
 ## Programming
+
+    -Branching
+    -Looping
+    -Script blocks
+    -Cariable scope
  
