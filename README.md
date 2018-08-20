@@ -54,7 +54,7 @@ Usage and syntax
     -Branching
     -Looping
     -Script blocks
-    -Cariable scope
+    -Variable scope
  
 ## Further Programming
     -Functions
