@@ -7,7 +7,7 @@ Basic usage of common commands
 Some examples of providers
 
 ## Variables and Cmdlets
-Types (Based on .NET)
+Types [Based on .NET](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/built-in-types-table)
 
     short 
     float
@@ -41,13 +41,13 @@ Types (Based on .NET)
     -NoMatch            Non-matches based on RegEx
 
 
-### Strings
+## Strings
 Usage and methods
 
-### Arrays
+## Arrays
 Usage and syntax
 
-### Hash Tables
+## Hash Tables
 Usage and syntax
 
 ## Programming
@@ -56,3 +56,5 @@ Usage and syntax
     -Script blocks
     -Cariable scope
  
+## Further Programming
+    -Functions
